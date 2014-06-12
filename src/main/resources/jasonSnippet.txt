@@ -1,0 +1,6 @@
+{
+  "odom" : "1234",
+  "year" : "2014",
+  "vin" : "10Galhat3",
+  "condition" : "perfect"
+}
